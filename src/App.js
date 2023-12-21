@@ -37,7 +37,12 @@ function App() {
 				<QuoteSection>
 					<br />
 					{QuotesData.map((quote, index) => (
-						<QuoteCard quoteCardText={quote.quoteCardText} imgSrc={quote.imgSrc} name={quote.name} />
+						<QuoteCard
+							quoteCardText={quote.quoteCardText}
+							imgSrc={quote.imgSrc}
+							name={quote.name}
+							key={`quote-card-${index}`}
+						/>
 					))}
 				</QuoteSection>
 			</div>
