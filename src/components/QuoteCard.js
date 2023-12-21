@@ -4,7 +4,7 @@ import styled from "styled-components";
 const QuoteCardDiv = styled.div`
 	width: 250px;
 	max-height: 420px;
-	margin: 12px 12px;
+	margin: 40px 12px;
 	flex-basis: 20%;
 `;
 
@@ -14,7 +14,7 @@ const QuoteCardTextBox = styled.div`
 	max-height: 320px;
 	background-color: white;
 	border-radius: 10px;
-	box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
+	box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px 0px;
 `;
 
 const QuoteCardText = styled.p`
@@ -32,8 +32,10 @@ const QuoteCardPicture = styled.img`
 const QuoteCardIcon = styled.img`
 	content: url("/quote-icon.png");
 	position: relative;
-	top: 30px;
+	top: 33px;
 	left: 20px;
+	width: 50px;
+	height: auto;
 `;
 
 function QuoteCard({ quoteCardText, imgSrc }) {

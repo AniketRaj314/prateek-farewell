@@ -2,12 +2,17 @@ export const QuotesData = [
 	{
 		name: `Nash`,
 		quoteCardText: `"Prateek, you’re one of the finest engineers I’ve ever met"`,
-		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/4101846c-8195-4c61-92e6-a42d43c6b4c4.png`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/d25109d4-4e28-4857-9dcc-c152f54cd855.png`,
 	},
 	{
 		name: `Aniket`,
 		quoteCardText: `"Will add something here shortly"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/9d66996e-0239-4e19-8741-afeea76316df.png`,
+	},
+	{
+		name: `Swarnim`,
+		quoteCardText: `"Prateek's impeccable attention to detail, and his unwavering pursuit of building the best possible products, is deeply inspiring!"`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/42c89b21-4d47-4604-afcc-bb5d87369dd5.png`,
 	},
 	{
 		name: `Calvin`,
@@ -17,11 +22,11 @@ export const QuotesData = [
 	{
 		name: `Vanshika`,
 		quoteCardText: `"Your lightning-fast shipping, love for challenges, hate for bugs, and warm presence are truly inspiring!"`,
-		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/0fdf89e0-d426-47f4-b97e-f0a0593086f7.png`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/03505244-52bb-4a41-aecc-366418024188.png`,
 	},
 	{
 		name: `Ayush`,
 		quoteCardText: `"The best mentor I have ever had, on and off Slack."`,
-		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/2cb618bf-0636-4687-a6a2-908a50605cff.png`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/e651bd3c-447e-4177-9c23-9dbbc35d2841.png`,
 	},
 ];

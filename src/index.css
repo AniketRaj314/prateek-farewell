@@ -1,3 +1,8 @@
+@font-face {
+    font-family: anime-ace;
+    src: url(fonts/animeace2_reg.ttf);
+  }
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #F1F4F5;
+  background-color: #F8FAFA;
 }
 
 code {
