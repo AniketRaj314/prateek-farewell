@@ -14,6 +14,7 @@ const QuoteCardTextBox = styled.div`
 	max-height: 320px;
 	background-color: white;
 	border-radius: 10px;
+	box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 4px 0px;
 `;
 
 const QuoteCardText = styled.p`
