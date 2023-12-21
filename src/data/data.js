@@ -41,7 +41,7 @@ export const QuotesData = [
 	},
 	{
 		name: `Aniket`,
-		quoteCardText: `"Will add something here shortly"`,
+		quoteCardText: `"P.R.A.T.E.E.K. - Peak Rizzler And The Elite Engineering King. All this, and a great friend :D"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/9d66996e-0239-4e19-8741-afeea76316df.png`,
 	},
 	{
@@ -67,7 +67,7 @@ export const QuotesData = [
 	{
 		name: `Calvin`,
 		quoteCardText: `"He codes with Next.js so smoothly, even the pixels high-five each other"`,
-		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/16a3721b-4a71-4af9-be3e-5901518e3ff7.png`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/bb103747-4587-4dcc-ae0f-b43e9b543d80.png`,
 	},
 	{
 		name: `Vanshika`,
