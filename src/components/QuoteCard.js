@@ -38,7 +38,7 @@ const QuoteCardIcon = styled.img`
 	height: auto;
 `;
 
-function QuoteCard({ quoteCardText, imgSrc }) {
+function QuoteCard({ quoteCardText, imgSrc, name }) {
 	return (
 		<QuoteCardDiv>
 			<QuoteCardIcon />
