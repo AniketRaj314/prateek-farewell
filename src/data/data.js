@@ -1,12 +1,12 @@
 export const QuotesData = [
 	{
 		name: `Akash`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Prateek, in 5 years, went from an intern always asking for more tasks to a pro who loved JS and hated bugs!"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/026a7b80-ef89-4889-8a1c-b8883a8c2da6.png`,
 	},
 	{
 		name: `Utkarsh`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Best bug hunter at Devfolio."`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/15b7d80c-b847-4ca2-93c2-f4e800a7d076.png`,
 	},
 	{
@@ -27,7 +27,7 @@ export const QuotesData = [
 	{
 		name: `Vikas`,
 		quoteCardText: `"Quote to be added."`,
-		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/cda76534-4f54-4859-bb72-0b34a0ec8aa7.png`,
+		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/7e729e09-9a9b-4b1b-a387-714a82d9c080.png`,
 	},
 	{
 		name: `Pushkar`,

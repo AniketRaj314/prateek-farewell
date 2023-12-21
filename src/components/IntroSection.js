@@ -5,6 +5,7 @@ const IntroSectionDiv = styled.div`
 	width: 100%;
 	min-height: 95vh;
 	display: flex;
+	flex-direction: column;
 	justify-content: center;
 	align-items: center;
 	font-size: calc(3vw + 2px);
@@ -12,23 +13,18 @@ const IntroSectionDiv = styled.div`
 `;
 
 const BackGroundImage = styled.img`
-	content: url("https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/d9d49351-5be5-4c35-ba8c-ce6c52f3c33a.png");
-	position: absolute;
-	top: 10%;
-	left: calc(50% - 15vw);
-	width: 30vw;
+	content: url("https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/4d64557d-0a75-47c4-9b7b-058cad944f92.png");
+	width: 20vw;
 	height: auto;
-	z-index: -100;
-	opacity: 20%;
 `;
 
 function IntroSection() {
 	return (
 		<>
 			<IntroSectionDiv>
-				<p>Onwards and Upwards, Prateek!</p>
+				<BackGroundImage />
+				<p>Onwards and Upwards, Prateek! 🫡</p>
 			</IntroSectionDiv>
-			<BackGroundImage />
 		</>
 	);
 }
