@@ -1,6 +1,7 @@
 import QuoteCard from "./components/QuoteCard";
 import IntroSection from "./components/IntroSection";
 import Footer from "./components/Footer";
+import Gallery from "./components/Gallery";
 import { QuotesData } from "./data/data";
 import styled from "styled-components";
 
@@ -23,7 +24,7 @@ const QuoteHeadingStyle = {
 	margin: "0px 40px",
 	backgroundColor: "#F4F6F7",
 	display: "flex",
-	justifyContent: "center ",
+	justifyContent: "center",
 };
 
 function App() {
@@ -46,6 +47,7 @@ function App() {
 					))}
 				</QuoteSection>
 			</div>
+			<Gallery />
 			<Footer />
 		</>
 	);

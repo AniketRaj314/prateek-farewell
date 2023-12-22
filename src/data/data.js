@@ -16,7 +16,7 @@ export const QuotesData = [
 	},
 	{
 		name: `Abhishek`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Thank you for showing what Never Stop Building means all these years."`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/811275d4-eef6-4d8e-96e8-2bae635ee51b.png`,
 	},
 	{
@@ -26,17 +26,17 @@ export const QuotesData = [
 	},
 	{
 		name: `Vikas`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: '"${quote}. Dw Prateek, it\'s not a bug 😹"',
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/7e729e09-9a9b-4b1b-a387-714a82d9c080.png`,
 	},
 	{
 		name: `Pushkar`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Has been always fun working alongside you on multiple fronts including Fortnite!"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/2eb8f9c9-13e8-4946-b2ee-e845e5fe38ee.png`,
 	},
 	{
 		name: `Preet`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Prateek is a ninja 🥷 swift, agile, and skilled in multiple disciplines, whist being one of the most empathetic builders I know."`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/f3569b58-7549-4492-ab81-df8de4425b7f.png`,
 	},
 	{
@@ -46,17 +46,17 @@ export const QuotesData = [
 	},
 	{
 		name: `Anish`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Really going to miss interrupting you on a daily basis when you are working"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/dd8d807e-41fe-4050-a7b8-da7f6ee74c9d.png`,
 	},
 	{
 		name: `Pritika`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"it's been amazing to have you around, cant wait to see all that you do ahead, we will all miss you Prateek <3"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/84d86147-afaa-4346-878a-baf951568af8.png`,
 	},
 	{
 		name: `Shriya`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Wishing you the very best as you embark on this new chapter! Will definitely miss the dev rev/now Quechua bottle at the office :)"`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/a0be03d3-f9f5-45e6-b55b-d3e051b9fe3f.png`,
 	},
 	{
@@ -76,7 +76,7 @@ export const QuotesData = [
 	},
 	{
 		name: `Aryan`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Finest Engineer, great mentor and an excellent teammate."`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/7889e782-8e43-4a86-852a-bedb4a738b23.png`,
 	},
 	{
