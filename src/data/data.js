@@ -21,12 +21,12 @@ export const QuotesData = [
 	},
 	{
 		name: `Denver`,
-		quoteCardText: `"Quote to be added."`,
+		quoteCardText: `"Prateek is a straight-up G whose commitment to his work and legendary bug-finding ability will be remembered at 2586Labs for years to come."`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/8550b666-bb6a-4aa9-a85b-f66d6cb0c0b3.png`,
 	},
 	{
 		name: `Vikas`,
-		quoteCardText: '"${quote}. Dw Prateek, it\'s not a bug 😹"',
+		quoteCardText: `//TODO: Add Quote Later`,
 		imgSrc: `https://assets.devfolio.co/content/a1f504bee74b4f19be305d409aa4fc16/7e729e09-9a9b-4b1b-a387-714a82d9c080.png`,
 	},
 	{
