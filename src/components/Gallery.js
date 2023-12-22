@@ -39,8 +39,8 @@ function Gallery() {
 				<div style={HeadingStyle}>
 					<h1>Jog down the memory lane! 📸</h1>
 				</div>
-				<a href="https://devfolio.co" target="_blank">
-					<Button href="https://devfolio.co">Open Google Photos</Button>
+				<a href="https://photos.app.goo.gl/idVpvpiAhX1YUFzH8" target="_blank">
+					<Button>Open Google Photos</Button>
 				</a>
 				<p>
 					<i>Since we couldn't have asked you to build the best gallery component for us!</i>
