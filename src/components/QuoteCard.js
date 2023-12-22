@@ -20,6 +20,7 @@ const QuoteCardTextBox = styled.div`
 const QuoteCardText = styled.p`
 	padding-top: 40px;
 	margin: 0px 20px;
+	font-family: "Inter", sans-serif;
 	font-size: 18px;
 `;
 

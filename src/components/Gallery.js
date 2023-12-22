@@ -30,6 +30,7 @@ const Button = styled.button`
 const HeadingStyle = {
 	margin: "20px 40px",
 	backgroundColor: "#F4F6F7",
+	fontFamily: "Inter, sans-serif",
 };
 
 function Gallery() {

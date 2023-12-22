@@ -4,12 +4,12 @@ import styled from "styled-components";
 const IntroSectionDiv = styled.div`
 	width: 100%;
 	min-height: 95vh;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
 	font-size: calc(3vw + 2px);
 	font-family: anime-ace;
+	flex-grow: 1;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 `;
 
 const BackGroundImage = styled.div`
@@ -24,12 +24,22 @@ const BackGroundImage = styled.div`
 	border: 4px solid #444444;
 `;
 
+const IntroAnimationStyle = {
+	display: "flex",
+	flexDirection: "column",
+	justifyContent: "center",
+	alignItems: "center",
+	animation: "slideDown ease-out 1.25s",
+};
+
 function IntroSection() {
 	return (
 		<>
 			<IntroSectionDiv>
-				<BackGroundImage />
-				<p>Onwards and Upwards, Prateek! 🫡</p>
+				<div style={IntroAnimationStyle}>
+					<BackGroundImage />
+					<p>Onwards and Upwards, Prateek! 🫡</p>
+				</div>
 			</IntroSectionDiv>
 		</>
 	);

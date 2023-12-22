@@ -23,6 +23,7 @@ const QuoteSectionStyle = {
 const QuoteHeadingStyle = {
 	margin: "0px 40px",
 	backgroundColor: "#F4F6F7",
+	fontFamily: "Inter, sans-serif",
 	display: "flex",
 	justifyContent: "center",
 };
